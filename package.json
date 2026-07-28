@@ -1,0 +1,19 @@
+{
+  "name": "jockie-vietnam-bot",
+  "version": "1.0.0",
+  "description": "Bot phat nhac Discord tieng Viet mượt ma",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@distube/soundcloud": "^2.0.3",
+    "@distube/spotify": "^2.0.2",
+    "@distube/yt-dlp": "^2.0.1",
+    "@discordjs/opus": "^0.9.0",
+    "discord.js": "^14.14.1",
+    "distube": "^5.0.3",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
